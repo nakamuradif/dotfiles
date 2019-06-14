@@ -35,6 +35,7 @@ set imdisable
 set mouse=a
 set guioptions+=a
 set ttymouse=xterm2
+set backspace=indent,eol,start
 
 " ==================================
 " Visual
